@@ -35,6 +35,7 @@
 
 ### 📂 Featured Public Repositories
 
+- 🚗 **[car-care](https://github.com/anasmhmd1/car-care)** — Mobile car care booking and field operations platform (Next.js 15, TypeScript & Prisma).
 - 📊 **[Budget-Lab](https://github.com/anasmhmd1/Budget-Lab)** — Personal & business financial analytics and budget management platform (Next.js & PostgreSQL).
 - 🛍️ **[Modern-ECommerce-Store](https://github.com/anasmhmd1/Modern-ECommerce-Store)** — Full-stack modern e-commerce storefront & admin panel (Next.js 16, React 19 & Tailwind).
 - 📱 **[Eslamy-Flutter-App](https://github.com/anasmhmd1/Eslamy-Flutter-App)** — Cross-platform Islamic mobile app featuring GPS prayer times & Quran audio (Flutter & Dart).
